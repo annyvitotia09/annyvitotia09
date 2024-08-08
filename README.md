@@ -1,16 +1,12 @@
-## Hi there 👋
+### Boas vindas ao meu perfil💙
 
-<!--
-**annyvitotia09/annyvitotia09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é anny vitoria 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou estudando na: escola octavio de almeida bueno
+- 🌱 Atualmente estou aprendendo: repositorio digital
+- 👯 Procuro colaborar com: os meus colegas
+- 🤔 Estou procurando ajuda com os codigos 
+- 💬 Alguma coisa sobre mim: gosto de dancar 
+- 📫 Como entrar em contato comigo: whatsApp
+- 😄 Pronomes: anny
+- ⚡ Curiosidade: sou muito estressada 
